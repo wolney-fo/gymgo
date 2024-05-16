@@ -1,4 +1,3 @@
-import { ResourceNotFoundError } from "../../use-cases/errors/resource-not-found-error";
 import { FindManyNearbyParams, GymsRepository } from "../gyms-repository";
 import { prisma } from "../../lib/prisma";
 import { Gym, Prisma } from "@prisma/client";
