@@ -1,6 +1,6 @@
 # GymGo
 
-Este projeto fornece a API back-end para uma plataforma de associação de academia, semelhante ao Gympass. O aplicativo permite que os usuários façam check-in em suas academias afiliadas e acompanhem suas sessões de treino.
+This project provides the back-end API for a gym membership platform, similar to Gympass. The application allows users to check in to their affiliated gyms and track their workout sessions.
 
 ## Requirements
 
